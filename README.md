@@ -35,18 +35,6 @@ Sou estudante de **Engenharia de Software na UNICID** e gosto de organizar probl
   </a>
 </p>
 
----
-
-### 🧩 Sobre mim
-
-- 🎓 **Engenharia de Software — UNICID**, com formação prevista para 2029.
-- 🧠 Interesses em **Python, análise de dados, IA generativa e desenvolvimento**.
-- 💼 Experiência no **TRE-SP**, onde desenvolvi organização, responsabilidade, comunicação e visão sistêmica.
-- 🗣️ Português nativo, inglês intermediário e espanhol básico.
-- 🎯 Busco estágio em **desenvolvimento, suporte técnico ou análise de dados**.
-
-> Quero unir lógica, dados e boas práticas à organização e ao trabalho em equipe que desenvolvi no setor público.
-
 ### 🛠️ Tecnologias que estudo e utilizo
 
 <img
@@ -110,29 +98,6 @@ Sou estudante de **Engenharia de Software na UNICID** e gosto de organizar probl
     </td>
   </tr>
 </table>
-
-### 🏅 Trajetória
-
-| | Experiência |
-|---|---|
-| 🎓 | **Engenharia de Software** — Universidade Cidade de São Paulo |
-| 🏛️ | **Estagiário no TRE-SP** — 1 ano e 1 mês de experiência institucional |
-| 🥇 | **Duas medalhas de ouro na OMASP** — fases municipal e estadual |
-| 📜 | Certificações em **IA, dados com Python e engenharia de prompt** |
-
-### 🧭 Construindo em público
-
-```text
-LÓGICA  →  DADOS  →  SOLUÇÕES  →  IMPACTO
-```
-
-Estou transformando aprendizado em prática, preparando novos projetos e documentando cada etapa da evolução. O objetivo não é parecer pronto — é mostrar o caminho sendo construído.
-
----
-
-<p align="center">
-  <strong>Eu organizo o caos e transformo ideias em código.</strong>
-</p>
 
 <p align="center">
   <a href="https://andreyveloso.com">andreyveloso.com</a>
