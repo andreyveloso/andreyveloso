@@ -35,7 +35,7 @@ Sou estudante de **Engenharia de Software na UNICID** e gosto de organizar probl
   </a>
 </p>
 
-### 🛠️ Tecnologias que estudo e utilizo
+### 🛠️ Tecnologias
 
 <img
   align="left"
@@ -111,18 +111,3 @@ Sou estudante de **Engenharia de Software na UNICID** e gosto de organizar probl
     alt="Contador de visitas ao perfil"
   />
 </p>
-
-<!--
-Quando houver mais atividade no perfil, remova esta linha e a linha de fechamento abaixo
-para exibir as estatísticas.
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img
-    alt="Estatísticas do GitHub de Andrey"
-    height="190"
-    src="https://github-stats-extended.vercel.app/api?username=andreyveloso&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-</p>
--->
