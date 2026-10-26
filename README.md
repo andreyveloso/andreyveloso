@@ -57,23 +57,48 @@ Um tabuleiro aberto para quem quiser jogar uma partida comigo. **Cada jogada vá
 
 ### Partida atual
 
-É a vez das peças **<!-- BEGIN TURN -->?<!-- END TURN -->**.
+É a vez das peças **<!-- BEGIN TURN -->brancas<!-- END TURN -->**.
 
 <!-- BEGIN CHESS BOARD -->
-Use o botão abaixo para iniciar uma partida.
+|   | A | B | C | D | E | F | G | H |   |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | <img src="img/black/rook-dark.svg" width="50" alt="r"> | <img src="img/black/knight-light.svg" width="50" alt="n"> | <img src="img/black/bishop-dark.svg" width="50" alt="b"> | <img src="img/black/queen-light.svg" width="50" alt="q"> | <img src="img/black/king-dark.svg" width="50" alt="k"> | <img src="img/black/bishop-light.svg" width="50" alt="b"> | <img src="img/black/knight-dark.svg" width="50" alt="n"> | <img src="img/black/rook-light.svg" width="50" alt="r"> | **8** |
+| **7** | <img src="img/black/pawn-light.svg" width="50" alt="p"> | <img src="img/black/pawn-dark.svg" width="50" alt="p"> | <img src="img/black/pawn-light.svg" width="50" alt="p"> | <img src="img/black/pawn-dark.svg" width="50" alt="p"> | <img src="img/black/pawn-light.svg" width="50" alt="p"> | <img src="img/black/pawn-dark.svg" width="50" alt="p"> | <img src="img/black/pawn-light.svg" width="50" alt="p"> | <img src="img/black/pawn-dark.svg" width="50" alt="p"> | **7** |
+| **6** | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | **6** |
+| **5** | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | **5** |
+| **4** | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | **4** |
+| **3** | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | <img src="img/square-light.svg" width="50" alt=" "> | <img src="img/square-dark.svg" width="50" alt=" "> | **3** |
+| **2** | <img src="img/white/pawn-dark.svg" width="50" alt="P"> | <img src="img/white/pawn-light.svg" width="50" alt="P"> | <img src="img/white/pawn-dark.svg" width="50" alt="P"> | <img src="img/white/pawn-light.svg" width="50" alt="P"> | <img src="img/white/pawn-dark.svg" width="50" alt="P"> | <img src="img/white/pawn-light.svg" width="50" alt="P"> | <img src="img/white/pawn-dark.svg" width="50" alt="P"> | <img src="img/white/pawn-light.svg" width="50" alt="P"> | **2** |
+| **1** | <img src="img/white/rook-light.svg" width="50" alt="R"> | <img src="img/white/knight-dark.svg" width="50" alt="N"> | <img src="img/white/bishop-light.svg" width="50" alt="B"> | <img src="img/white/queen-dark.svg" width="50" alt="Q"> | <img src="img/white/king-light.svg" width="50" alt="K"> | <img src="img/white/bishop-dark.svg" width="50" alt="B"> | <img src="img/white/knight-light.svg" width="50" alt="N"> | <img src="img/white/rook-dark.svg" width="50" alt="R"> | **1** |
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
 **Jogadas disponíveis**
 
 <!-- BEGIN MOVES LIST -->
-[Abrir issue e iniciar partida](https://github.com/andreyveloso/andreyveloso/issues/new?title=Chess%3A%20Start%20new%20game&body=N%C3%A3o%20edite%20o%20t%C3%ADtulo.%20Basta%20enviar%20a%20issue%20para%20iniciar%20uma%20nova%20partida.)
+|  ORIGEM  | DESTINO (clique em uma jogada) |
+| :----: | :---------------------- |
+| **A2** | [A3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+A2+to+A3), [A4](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+A2+to+A4) |
+| **B1** | [A3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+B1+to+A3), [C3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+B1+to+C3) |
+| **B2** | [B3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+B2+to+B3), [B4](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+B2+to+B4) |
+| **C2** | [C3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+C2+to+C3), [C4](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+C2+to+C4) |
+| **D2** | [D3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+D2+to+D3), [D4](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+D2+to+D4) |
+| **E2** | [E3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+E2+to+E3), [E4](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+E2+to+E4) |
+| **F2** | [F3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+F2+to+F3), [F4](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+F2+to+F4) |
+| **G1** | [F3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+G1+to+F3), [H3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+G1+to+H3) |
+| **G2** | [G3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+G2+to+G3), [G4](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+G2+to+G4) |
+| **H2** | [H3](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/andreyveloso/andreyveloso/issues/new?body=N%C3%A3o+edite+o+t%C3%ADtulo.+Basta+enviar+a+issue+para+registrar+sua+jogada.&title=Chess%3A+Move+H2+to+H4) |
 <!-- END MOVES LIST -->
 
 <details>
 <summary>📜 Últimas jogadas</summary>
 
 <!-- BEGIN LAST MOVES -->
-As jogadas recentes aparecerão aqui.
+
+| Jogada | Jogador |
+| :--: | :----- |
+| `Start game` | [ @andreyveloso](https://github.com/andreyveloso) |
+
 <!-- END LAST MOVES -->
 </details>
 
@@ -81,7 +106,10 @@ As jogadas recentes aparecerão aqui.
 <summary>🎖️ Participantes mais ativos</summary>
 
 <!-- BEGIN TOP MOVES -->
-O placar será atualizado conforme as partidas forem jogadas.
+
+| Total de jogadas |  Jogador  |
+| :---------: | :----- |
+
 <!-- END TOP MOVES -->
 </details>
 
