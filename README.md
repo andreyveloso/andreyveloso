@@ -1,113 +1,67 @@
-# 👨🏻‍💻 Andrey Veloso
+<div align="center">
 
-**`Engenharia de Software | Desenvolvimento • Dados • Inteligência Artificial`**
+# Andrey Azevedo Veloso
 
-Sou estudante de **Engenharia de Software na UNICID** e gosto de organizar problemas, entender como as partes se conectam e transformar ideias em soluções. Estou construindo minha carreira na interseção entre **desenvolvimento, dados e inteligência artificial**, sempre aprendendo por meio da prática.
+### Engenharia de Software | Tecnologia, Dados e Desenvolvimento
 
-<p align="left">
-  <a href="https://andreyveloso.com">
-    <img
-      alt="Portfólio"
-      title="Conheça meu portfólio"
-      src="https://custom-icon-badges.demolab.com/badge/-Portf%C3%B3lio-6C63FF?style=for-the-badge&logo=globe&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/velosoandrey/">
-    <img
-      alt="LinkedIn"
-      title="Vamos nos conectar no LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="https://andreyveloso.com/#contato">
-    <img
-      alt="Disponível para estágio"
-      title="Disponível para oportunidades em tecnologia"
-      src="https://custom-icon-badges.demolab.com/badge/-Dispon%C3%ADvel%20para%20est%C3%A1gio-2EA043?style=for-the-badge&logo=briefcase&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/andreyveloso?tab=followers">
-    <img
-      alt="Seguidores no GitHub"
-      title="Siga meu perfil no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/andreyveloso?color=236AD3&labelColor=1155BA&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"
-    />
-  </a>
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-andreyveloso.com-263B5E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andreyveloso.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-velosoandrey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velosoandrey/)
+[![Disponível para estágio](https://img.shields.io/badge/Dispon%C3%ADvel-para%20est%C3%A1gio-287D63?style=for-the-badge&logo=briefcase&logoColor=white)](https://andreyveloso.com/#contato)
+
+</div>
+
+---
+
+## Perfil
+
+Sou estudante de **Engenharia de Software na UNICID** e tenho experiência em rotinas administrativas no **Tribunal Regional Eleitoral de São Paulo (TRE-SP)**. Nessa atuação, apoiei a organização de processos internos e a comunicação entre setores, com atenção aos prazos e à qualidade das entregas.
+
+Hoje, direciono essa experiência para tecnologia e aprofundo meus conhecimentos em desenvolvimento de software, análise de dados com Python e inteligência artificial generativa. Busco uma oportunidade de estágio em TI ou desenvolvimento para aplicar esse repertório, contribuir com organização e raciocínio analítico e evoluir tecnicamente em equipe.
+
+## Conhecimentos
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Lógica de programação" src="https://img.shields.io/badge/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o-263B5E?style=flat-square" />
+  <img alt="Análise de dados" src="https://img.shields.io/badge/An%C3%A1lise%20de%20dados-263B5E?style=flat-square" />
+  <img alt="Inteligência artificial generativa" src="https://img.shields.io/badge/IA%20generativa-5B4B8A?style=flat-square" />
+  <img alt="Engenharia de prompts" src="https://img.shields.io/badge/Engenharia%20de%20prompts-5B4B8A?style=flat-square" />
 </p>
 
-### 🛠️ Tecnologias
+Também desenvolvo competências em **organização de processos, visão sistêmica, comunicação entre setores, trabalho em equipe e responsabilidade com prazos**.
 
-<img
-  align="left"
-  alt="Python"
-  title="Python"
-  width="40px"
-  style="padding-right: 12px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="40px"
-  style="padding-right: 12px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="40px"
-  style="padding-right: 12px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-  align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="40px"
-  style="padding-right: 12px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-  align="left"
-  alt="Git"
-  title="Git"
-  width="40px"
-  style="padding-right: 12px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+## Projeto em destaque
 
-<br />
-<br />
+### [Flashcards Interativos](https://github.com/andreyveloso/Flashcard-Interativo)
 
-<p align="left">
-  <img alt="Análise de dados" src="https://custom-icon-badges.demolab.com/badge/-An%C3%A1lise%20de%20dados-0D1117?style=for-the-badge&logo=graph&logoColor=58A6FF" />
-  <img alt="IA generativa" src="https://custom-icon-badges.demolab.com/badge/-IA%20generativa-0D1117?style=for-the-badge&logo=sparkles&logoColor=A78BFA" />
-  <img alt="Prompt engineering" src="https://custom-icon-badges.demolab.com/badge/-Prompt%20engineering-0D1117?style=for-the-badge&logo=terminal&logoColor=2EA043" />
-</p>
+Projeto de estudo desenvolvido durante minha jornada na Alura, com cartões interativos para apoiar a aprendizagem.
 
-### 🚀 Projeto em destaque
+## Formação
 
-<table>
-  <tr>
-    <td width="72" align="center">🧠</td>
-    <td>
-      <strong><a href="https://github.com/andreyveloso/Alura">Flashcards Interativos</a></strong><br />
-      Página de estudos com cartões interativos, construída com HTML, CSS e JavaScript durante minha jornada na Alura.
-    </td>
-  </tr>
-</table>
+- **Engenharia de Software** — UNICID, em andamento
+- **Inglês como Segundo Idioma** — Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)
 
-<p align="center">
-  <a href="https://andreyveloso.com">andreyveloso.com</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/velosoandrey/">LinkedIn</a>
-</p>
+## Conquista
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=andreyveloso&style=flat-square&color=6C63FF&label=visitas+ao+perfil"
-    alt="Contador de visitas ao perfil"
-  />
-</p>
+**OMASP 2024:** Medalha de Ouro nas fases municipal e estadual; entre os 224 melhores alunos do Estado de São Paulo na fase estadual.
+
+## Certificações
+
+- Fundamentos do Mundo da Inteligência Artificial
+- Alfabetização em Dados com Python
+- Engenharia de Prompt: criando prompts eficazes para IA Generativa
+- Conceitos de Aprendizagem Criativa
+- Fundamentos de TI: Hardware e Software
+
+## Idiomas
+
+**Inglês:** intermediário · **Espanhol:** básico
+
+---
+
+<div align="center">
+
+[Portfólio](https://andreyveloso.com) · [LinkedIn](https://www.linkedin.com/in/velosoandrey/)
+
+</div>
+
