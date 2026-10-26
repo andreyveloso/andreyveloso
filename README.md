@@ -4,64 +4,81 @@
 
 ### Engenharia de Software | Tecnologia, Dados e Desenvolvimento
 
+[![Missão atual](https://img.shields.io/badge/🎯%20MISSÃO-Estágio%20em%20TI-263B5E?style=for-the-badge)](#missão-atual)
+[![Conquistas](https://img.shields.io/badge/🏆%20CONQUISTAS-OMASP%202024-C08A22?style=for-the-badge)](#conquistas)
+[![Projeto](https://img.shields.io/badge/🗺️%20PROJETO-Modelagem%20de%20Dados-287D63?style=for-the-badge)](#projeto-em-destaque)
+
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-andreyveloso.com-263B5E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andreyveloso.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-velosoandrey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velosoandrey/)
-[![Disponível para estágio](https://img.shields.io/badge/Dispon%C3%ADvel-para%20est%C3%A1gio-287D63?style=for-the-badge&logo=briefcase&logoColor=white)](https://andreyveloso.com/#contato)
 
 </div>
 
 ---
 
-## Perfil
+## 🎯 Missão atual
 
-Sou estudante de **Engenharia de Software na UNICID** e tenho experiência em rotinas administrativas no **Tribunal Regional Eleitoral de São Paulo (TRE-SP)**. Nessa atuação, apoiei a organização de processos internos e a comunicação entre setores, com atenção aos prazos e à qualidade das entregas.
+Sou estudante de **Engenharia de Software na UNICID**, com experiência em rotinas administrativas no **Tribunal Regional Eleitoral de São Paulo (TRE-SP)**. Direciono essa experiência para tecnologia, aprofundando meus conhecimentos em desenvolvimento de software, análise de dados com Python e inteligência artificial generativa.
 
-Hoje, direciono essa experiência para tecnologia e aprofundo meus conhecimentos em desenvolvimento de software, análise de dados com Python e inteligência artificial generativa. Busco uma oportunidade de estágio em TI ou desenvolvimento para aplicar esse repertório, contribuir com organização e raciocínio analítico e evoluir tecnicamente em equipe.
+Busco uma oportunidade de estágio em TI ou desenvolvimento para contribuir com organização, visão sistêmica e raciocínio analítico, enquanto evoluo tecnicamente em equipe.
 
-## Conhecimentos
+## 🧠 Inventário de habilidades
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Lógica de programação" src="https://img.shields.io/badge/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o-263B5E?style=flat-square" />
-  <img alt="Análise de dados" src="https://img.shields.io/badge/An%C3%A1lise%20de%20dados-263B5E?style=flat-square" />
-  <img alt="Inteligência artificial generativa" src="https://img.shields.io/badge/IA%20generativa-5B4B8A?style=flat-square" />
-  <img alt="Engenharia de prompts" src="https://img.shields.io/badge/Engenharia%20de%20prompts-5B4B8A?style=flat-square" />
-</p>
+<details>
+<summary>🧩 Abrir árvore de habilidades</summary>
 
-Também desenvolvo competências em **organização de processos, visão sistêmica, comunicação entre setores, trabalho em equipe e responsabilidade com prazos**.
+**Desenvolvimento**  
+Lógica de programação · Fundamentos de desenvolvimento de software
 
-## Projeto em destaque
+**Dados**  
+Análise de dados com Python
 
-### [Flashcards Interativos](https://github.com/andreyveloso/Flashcard-Interativo)
+**Inteligência artificial**  
+Fundamentos de IA generativa · Engenharia de prompts
 
-Projeto de estudo desenvolvido durante minha jornada na Alura, com cartões interativos para apoiar a aprendizagem.
+**Competências profissionais**  
+Organização de processos · Visão sistêmica · Comunicação entre setores · Trabalho em equipe · Responsabilidade com prazos
 
-## Formação
+</details>
 
-- **Engenharia de Software** — UNICID, em andamento
-- **Inglês como Segundo Idioma** — Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)
+## 🏆 Conquistas
 
-## Conquista
+**OMASP 2024** — Medalha de Ouro nas fases municipal e estadual; entre os 224 melhores alunos do Estado de São Paulo na fase estadual.
 
-**OMASP 2024:** Medalha de Ouro nas fases municipal e estadual; entre os 224 melhores alunos do Estado de São Paulo na fase estadual.
+<details>
+<summary>🔎 Ver contexto da conquista</summary>
 
-## Certificações
+Minha afinidade com o raciocínio lógico foi reconhecida na Olimpíada de Matemática das Escolas Estaduais de São Paulo. Em 2024, conquistei a medalha nas duas fases e fiquei entre os 224 melhores alunos do estado na etapa estadual.
 
-- Fundamentos do Mundo da Inteligência Artificial
-- Alfabetização em Dados com Python
-- Engenharia de Prompt: criando prompts eficazes para IA Generativa
-- Conceitos de Aprendizagem Criativa
-- Fundamentos de TI: Hardware e Software
+</details>
 
-## Idiomas
+## 🗺️ Projeto em destaque
 
-**Inglês:** intermediário · **Espanhol:** básico
+### [Modelagem de Dados — ERP Multiplikar Automóveis](https://github.com/andreyveloso/modelagem-banco-multiplikar-automoveis)
+
+Projeto integrador em equipe para a **modelagem conceitual de dados e processos** de um ERP para uma empresa do setor automotivo. O repositório documenta requisitos, processos de negócio, entidades, relacionamentos, dicionário de dados e o diagrama entidade-relacionamento.
+
+<details>
+<summary>🛠️ Ver minha contribuição no projeto</summary>
+
+Contribuí com a caracterização da empresa, justificativa da escolha, levantamento de problemas, especificação de requisitos funcionais e não funcionais, identificação de entidades, atributos e relacionamentos, além da conclusão do projeto.
+
+</details>
+
+## 🧭 Experiência
+
+<details>
+<summary>📂 Abrir trajetória no TRE-SP</summary>
+
+No Tribunal Regional Eleitoral de São Paulo, apoiei rotinas administrativas, organizei processos internos e mantive contato com diferentes setores. Essa experiência fortaleceu minha capacidade de analisar fluxos, definir prioridades, comunicar informações com clareza e cumprir prazos com responsabilidade.
+
+</details>
 
 ---
 
 <div align="center">
 
+**Quer conversar sobre uma oportunidade ou projeto?**
+
 [Portfólio](https://andreyveloso.com) · [LinkedIn](https://www.linkedin.com/in/velosoandrey/)
 
 </div>
-
