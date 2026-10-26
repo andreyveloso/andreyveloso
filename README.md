@@ -13,17 +13,20 @@
 
 ## Perfil profissional
 
-Sou estudante de **Engenharia de Software na UNICID** e tenho experiência em rotinas administrativas no **Tribunal Regional Eleitoral de São Paulo (TRE-SP)**. Direciono essa experiência para tecnologia, aprofundando meus conhecimentos em desenvolvimento de software, análise de dados com Python e inteligência artificial generativa.
+Sou estudante de **Engenharia de Software na UNICID** e tenho experiência em rotinas administrativas no **Tribunal Regional Eleitoral de São Paulo (TRE-SP)**. Direciono essa experiência para tecnologia, aprofundando meus conhecimentos em desenvolvimento de software, análise de dados com Python e automação com IA.
 
 Busco uma oportunidade de estágio em TI ou desenvolvimento para contribuir com organização, visão sistêmica e raciocínio analítico, enquanto evoluo tecnicamente em equipe.
 
 ## Conhecimentos
 
 <p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Lógica de programação" src="https://img.shields.io/badge/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o-263B5E?style=flat-square" />
   <img alt="Análise de dados" src="https://img.shields.io/badge/An%C3%A1lise%20de%20dados-263B5E?style=flat-square" />
-  <img alt="IA generativa" src="https://img.shields.io/badge/IA%20generativa-5B4B8A?style=flat-square" />
+  <img alt="Automação com IA" src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20com%20IA-5B4B8A?style=flat-square" />
   <img alt="Engenharia de prompts" src="https://img.shields.io/badge/Engenharia%20de%20prompts-5B4B8A?style=flat-square" />
 </p>
 
