@@ -1,0 +1,44 @@
+comments:
+  consecutive_moves: "{author}, outra pessoa precisa jogar antes de você."
+  game_over: |-
+      Partida encerrada: {outcome}. Foram {num_moves} jogadas, feitas por {num_players} participantes.
+      Obrigado por jogar: {players}.
+  invalid_board: "{author}, não foi possível validar o tabuleiro."
+  invalid_move: |-
+      {author}, a jogada {move} não é válida para o tabuleiro atual.
+      Atualize a página e tente uma jogada disponível.
+  invalid_new_game: "{author}, já existe uma partida. Apenas o dono do repositório pode reiniciá-la."
+  successful_move: |-
+      {author}, jogada {move} registrada. Obrigado por participar!
+  successful_new_game: "{author}, uma nova partida começou. O tabuleiro já está atualizado no perfil."
+  unknown_command: "{author}, não reconheci o comando. Use os links de jogada do README."
+
+issues:
+  link: "https://github.com/{repo}/issues/new?{params}"
+  move:
+    body: "Não edite o título. Basta enviar a issue para registrar sua jogada."
+    title: "Chess: Move {source} to {dest}"
+  new_game:
+    body: "Não edite o título. Basta enviar a issue para iniciar uma nova partida."
+    title: "Chess: Start new game"
+
+markers:
+  board:
+    begin: "<!-- BEGIN CHESS BOARD -->\n"
+    end: "<!-- END CHESS BOARD -->\n"
+  last_moves:
+    begin: "<!-- BEGIN LAST MOVES -->\n"
+    end: "<!-- END LAST MOVES -->\n"
+  moves:
+    begin: "<!-- BEGIN MOVES LIST -->\n"
+    end: "<!-- END MOVES LIST -->\n"
+  top_moves:
+    begin: "<!-- BEGIN TOP MOVES -->\n"
+    end: "<!-- END TOP MOVES -->\n"
+  turn:
+    begin: "<!-- BEGIN TURN -->"
+    end: "<!-- END TURN -->"
+
+misc:
+  max_last_moves: 5
+  max_top_moves: 10

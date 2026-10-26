@@ -1,0 +1,44 @@
+name: Partida de xadrez
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'Chess:')
+    permissions:
+      contents: write
+      issues: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Processar jogada
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: |
+          python -m pip install --disable-pip-version-check -r requirements.txt
+          python main.py
+
+      - name: Registrar atualização do tabuleiro
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+        run: |
+          git add README.md data games
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança no tabuleiro para registrar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "${ISSUE_TITLE} by ${ISSUE_AUTHOR}"
+          git push
